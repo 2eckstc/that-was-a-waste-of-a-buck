@@ -194,12 +194,50 @@ Why it's perfect:
 
 ---
 
+## MONTHLY PROMPT CONTEST (New!)
+
+**"That Was a Waste of a Buck" GIVEAWAY! 🏆💰**
+
+Every month, reward the best wacky prompt submission!
+
+### Prize Options
+| Prize | Description |
+|-------|-------------|
+| **$50/month** | Best wacky prompt winner |
+| **$100/month** | Top 2 winners |
+| **$25 + Pro subscription** | Winner gets free premium |
+
+### How to Fund
+- Set aside ~20% of monthly app revenue
+- Or get brand sponsors (AI tool companies)
+- Start small, scale as revenue grows
+
+### Legal Notes
+- Prizes under $600 = no tax forms needed
+- Prizes $600+ = require 1099 tax forms
+- Need official contest rules (template available online)
+
+### Simple Implementation
+- Month 1: Use $50 from app revenue
+- Winner highlighted on app homepage
+- Announce winners on social media
+- Easy to scale!
+
+### Winner Benefits
+- 🏆 $50 (or prize tier)
+- 📱 Featured on app homepage
+- �社交 Social media shoutout
+- ⭐ "Prompt Champion" profile badge
+
+---
+
 ## NEXT STEPS
 
-1. ✅ Pick final app name
+1. ✅ Pick final app name - "That Was a Waste of a Buck"
 2. ✅ Choose platform (recommend Glide for start)
 3. ✅ Start gathering wacky prompt examples
-4. ✅ Build the MVP
-5. ✅ Submit to stores
+4. ✅ Build the MVP with submission system
+5. ✅ Add monthly contest feature
+6. ✅ Submit to stores
 
 Let me know which direction you want to go, and I'll start building out whatever you need!
