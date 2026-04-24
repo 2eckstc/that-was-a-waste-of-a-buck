@@ -39,7 +39,7 @@ A social app where users share wacky, weird, and outrageous AI prompts they've t
    - Categories could include "Best Video Prompt"
 
 3. **Content Examples for Videos:**
-   - "A drunk pirate trying to explain takes"
+   - "A drunk pirate trying to explain taxes"
    - "Tell me about quantum physics like I'm a paranoid hamster"
    - "Write a Yelp review for Hell"
    - These are HILLARIOUS in video form
