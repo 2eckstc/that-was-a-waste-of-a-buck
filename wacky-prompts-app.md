@@ -19,6 +19,45 @@ A social app where users share wacky, weird, and outrageous AI prompts they've t
 
 ---
 
+## VIDEO CONTENT STRATEGY (Added April 24, 2026)
+
+### Why Videos?
+- Wacky prompts are FUNNIER in video format
+- "A drunk pirate trying to explain takes..." - you HAVE to see it
+- Video content goes viral on TikTok, Reels, YouTube Shorts
+- Drives traffic TO the app
+
+### How We Use Videos
+1. **Marketing (Pre-Download):**
+   - Create short videos of the BEST prompts
+   - Post on TikTok, Instagram Reels, YouTube Shorts
+   - Hook: "Watch what happens when you ask AI..." → Link in bio to app
+
+2. **In-App Content:**
+   - Users can upload videos of their prompts + AI responses
+   - Not just text — NOW it's watchable entertainment
+   - Categories could include "Best Video Prompt"
+
+3. **Content Examples for Videos:**
+   - "A drunk pirate trying to explain takes"
+   - "Tell me about quantum physics like I'm a paranoid hamster"
+   - "Write a Yelp review for Hell"
+   - These are HILLARIOUS in video form
+
+### Video Marketing Strategy
+| Platform | Content Type | Goal |
+|----------|--------------|------|
+| TikTok | 15-60sec prompt fails | Viral, app downloads |
+| Instagram Reels | Same content | Drive to link in bio |
+| YouTube Shorts | Full prompt + result | Build library |
+
+### Monetization from Videos
+- Sponsor videos from AI tool companies
+- Get free products for promoting their tools
+- "Powered by [AI Tool]" in descriptions
+
+---
+
 ## CORE FEATURES
 
 ### 1. Feed (Home)
