@@ -56,6 +56,24 @@ A social app where users share wacky, weird, and outrageous AI prompts they've t
 - Get free products for promoting their tools
 - "Powered by [AI Tool]" in descriptions
 
+### SEPARATE REVENUE STREAM: Video Content Brand
+The videos themselves can be a business! Think: "Drunk Pirate" becomes its own content brand.
+
+**Revenue Sources:**
+1. **Ad Revenue** - TikTok, YouTube, Instagram - get paid for views
+2. **Affiliate Links** - Tax services, alcohol, bar supplies, etc.
+3. **Brand Sponsorships** - Companies pay to be in your videos
+4. **Merchandise** - T-shirts, mugs with your video characters
+
+**Example: Drunk Pirate Series**
+- Video: "A drunk pirate trying to explain taxes" goes viral
+- Affiliate: Links to tax prep services (TurboTax, H&R Block)
+- Affiliate: Links to rum/alcohol brands
+- Sponsorship: A rum brand sponsors the episode
+- Merch: "Drunk Pirate" t-shirts
+
+**This could be bigger than the app itself!** 🚀
+
 ---
 
 ## CORE FEATURES
