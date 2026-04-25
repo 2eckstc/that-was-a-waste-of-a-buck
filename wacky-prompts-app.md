@@ -76,6 +76,41 @@ The videos themselves can be a business! Think: "Drunk Pirate" becomes its own c
 
 ---
 
+## GAME CONCEPTS - Community Engagement (Added April 25, 2026)
+
+Adding GAME MECHANICS builds community AND retention!
+
+### Game Modes
+
+| Game | How It Works |
+|------|--------------|
+| **Guess the Response** | Show prompt → Users guess AI output → Most accurate wins points |
+| **Daily Challenge** | Featured prompt each day → Guess if it's funny/weird/wrong → Win badges |
+| **Prompt Battles** | Two prompts enter, community votes which creates funnier output |
+| **Blurry Reveal** | Show prompt, blur response → Watch ad or guess to unlock |
+| **Prompt League** | Users submit prompts → Most popular wins monthly prizes |
+| **Speed Run** | How fast can you guess the category/result? |
+
+### Community Building Features
+- **Leaderboards** - Weekly and monthly "Best Guesser" rankings
+- **Badges** - "Accurate Guesser", "Prompt Master", "Community Choice"
+- **Profile Pages** - Stats, guess accuracy, badges earned
+- **Social Sharing** - "I guessed 8/10 correctly!" → Goes viral
+
+### Monetization from Games
+- **Extra guesses** = Coins (purchased)
+- **Watch ad** = Unlock reveal early
+- **Hint feature** = In-app purchase
+- **Skip the line** = Pro feature
+
+### Why Games Work
+- Keeps users coming back DAILY
+- Builds community engagement
+- Creates "can't miss" daily content
+- Viral sharing potential ("I got #1 on leaderboard!")
+
+---
+
 ## CORE FEATURES
 
 ### 1. Feed (Home)
